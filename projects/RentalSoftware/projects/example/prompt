@@ -1,0 +1,45 @@
+Objective: Develop a comprehensive car rental software combining key features from HQRentals and RentGuruz, with a focus on a modern, user-friendly interface.
+
+Core Requirements:
+
+Online Reservations and Payments: Implement a system for customers to make reservations and payments online. The interface should be intuitive, ensuring a seamless booking experience.
+
+Fleet Management: Develop a robust fleet management module that allows for tracking vehicle availability, maintenance, repairs, and finances. This module should provide real-time updates and analytics to optimize fleet utilization.
+
+Paperless Operations: Create digital rental agreements that can be customized per business requirements. Include functionality for uploading vehicle condition images and digital signature capture.
+
+VinAudit Integration: Incorporate VinAudit integration to auto-fill vehicle information using VIN numbers. This feature should facilitate the quick addition of vehicles to the fleet and ensure accurate data entry.
+
+Maintenance Alerts: Implement a maintenance alert system based on vehicle mileage or time intervals. The system should notify managers of upcoming maintenance tasks and track related expenses.
+
+Customer Profile Management: Design a module for creating and managing customer profiles. This should include features for adding, editing, and searching customer information with various filters.
+
+Agreement Management: Develop a flexible agreement management system that supports various rental types, with the ability to add taxes, charges, and deposits.
+
+Inventory Management: Create an inventory management system to add and track vehicle details, insurance, and lease/finance information. Include features for profitability and expense tracking for each vehicle.
+
+Invoice Generation: Integrate an invoicing system that supports multiple billing options, including billing to customers, insurance companies, or third parties.
+
+Responsive Web Interface: Design a modern, responsive user interface that is accessible from various devices and operating systems. The interface should prioritize ease of use and aesthetic appeal.
+
+QR Code Operations: Implement QR code functionality to streamline operations like vehicle pickup and return processes.
+
+Demand-Based Pricing: Incorporate a dynamic pricing model that adjusts rental rates based on vehicle utilization rates.
+
+Integrated Bookkeeping and Reporting: Include a comprehensive bookkeeping module with customizable reporting tools. This should provide insights into key performance indicators and facilitate data-driven decision-making.
+
+Comprehensive Knowledge Base: Develop an extensive knowledge base with documentation and FAQs to assist users in maximizing software functionalities.
+
+UI/UX Design Considerations:
+
+Focus on a modern, clean aesthetic with intuitive navigation.
+Ensure the interface is user-friendly, with clear labels, accessible menus, and a logical flow of operations.
+Incorporate interactive elements, like dropdowns, toggles, and sliders, for a dynamic user experience.
+Use a color scheme that is visually appealing and aligns with the brand identity.
+Prioritize mobile responsiveness to ensure accessibility and functionality across devices.
+Development Approach:
+
+Use agile methodology for iterative development and continuous feedback.
+Ensure high scalability and security standards.
+Prioritize user experience in every aspect of development and design.
+This prompt outlines the key features and design considerations for developing a state-of-the-art car rental software, blending the strengths of existing competitors with a modern UI focus.
